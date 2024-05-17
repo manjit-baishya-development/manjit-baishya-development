@@ -34,12 +34,7 @@
   </a>
 </div>
 
-<!-- Languages -->
-<h1>Languages 🖊</h1>
+<!-- Languages and Tools -->
+<h1>Languages and Tools 🖊</h1>
 
-![Asset 13](https://github.com/manjit-baishya-datascience/manjit-baishya-datascience/assets/127611924/e5e9a71f-f28e-49c6-ad4f-ec11fc48c6b2)
-
-<!-- Tools -->
-<h1>Tools ⚒️</h1>
-
-![Asset 12](https://github.com/manjit-baishya-datascience/manjit-baishya-datascience/assets/127611924/8bc0512f-7eb0-47ce-b6b6-cdef11fe8db6)
+![Languages and Tools](/assets/languages_and_tools.png)
