@@ -20,15 +20,13 @@
 
 <!-- About Me -->
 <h1>About Me 👨‍🎓</h1>
-<h4>Driven former Electronics and Communication Engineering student transitioning into Data Science, passionate about leveraging 
-<br>analytical skills and technical background to extract insights from data and solve real-world problems. Currently enhancing 
-<br>my skills through personal projects in data science, while also self-learning Web and Windows App Development to create 
-<br>interfaces for these projects. Additionally, I am working on embedded systems with the aim of developing UIs for these 
-<br>systems as well.</h4>
+<h4>Driven Electronics and Communication Engineering graduate transitioning into Data Science, with a keen interest in 
+<br>Embedded Systems. Currently enhancing my skills through personal projects and self-learning Web and App Development 
+<br>to create intuitive interfaces for my Data Science and Embedded Systems projects.</h4>
 
 <!-- Social Profiles -->
 <div> 
-  <a href="mailto:manjitbaishya01@gmail.com">
+  <a href="mailto:manjitbaishya15@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/reach-manjit-here">
