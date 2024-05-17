@@ -13,9 +13,9 @@
 <h4>
     <li> 📌 Assam, India </li>
     <li> 👨‍🎓 ECE Graduate </li>
-    <li> 🌱 Learning Data Science - ML & AI </li>
-    <li> 🏢 Currently working on ML projects </li>
-    <li> 🤝 Open to Collaboration </li>
+    <li> 🌱 Learning Web Design and Development - React </li>
+    <li> 🏢 Currently working on Web Dev projects </li>
+    <li> 🤝 Open to Collaboration on Dev Projects</li>
 </h4>
 
 <!-- About Me -->
