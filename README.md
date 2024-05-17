@@ -20,8 +20,11 @@
 
 <!-- About Me -->
 <h1>About Me 👨‍🎓</h1>
-<h4>Driven former Electronics and Communication Engineering student transitioning into Data Science, passionate about 
-<br>leveraging analytical skills and technical background to extract insights from data and solve real-world problems. Currently enhancing my skills through personal projects in data science, while also self-learning Web and Windows App Development to create interfaces for these projects. Additionally, I am working on embedded systems with the aim of developing UIs for these systems as well.</h4>
+<h4>Driven former Electronics and Communication Engineering student transitioning into Data Science, passionate about leveraging 
+<br>analytical skills and technical background to extract insights from data and solve real-world problems. Currently enhancing 
+<br>my skills through personal projects in data science, while also self-learning Web and Windows App Development to create 
+<br>interfaces for these projects. Additionally, I am working on embedded systems with the aim of developing UIs for these 
+<br>systems as well.</h4>
 
 <!-- Social Profiles -->
 <div> 
