@@ -7,7 +7,7 @@
 </h1>
 
 <!-- Subtitle -->
-<h2 align="center"> 🌟 Data Enthusiast from India 🌟 </h2>
+<h2 align="center"> 🌟 Web Designer and Developer from India 🌟 </h2>
 
 <!-- List -->
 <h4>
