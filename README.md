@@ -1,5 +1,5 @@
 <!-- Hero Image -->
-![Hero GIF](https://github.com/manjit-baishya-datascience/manjit-baishya-datascience/assets/127611924/872b2c32-aa8e-42e4-85aa-fa82ea320af5)
+![Header](/assets/header.png)
 
 <!-- Greeting Message -->
 <h1 align="center">
